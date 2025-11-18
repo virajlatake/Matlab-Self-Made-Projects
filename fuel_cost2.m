@@ -8,4 +8,5 @@ fprintf('The fuel cost for your desired journey will be Rs.%0.2f\n', Fuel_cost)
 
 disp('Thank you for choosing Vride solutions')
 
-%Mini project by Viraj Latak
+%Mini project by Viraj Latake
+

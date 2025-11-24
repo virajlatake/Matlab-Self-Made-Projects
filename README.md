@@ -5,5 +5,8 @@ Uploaded self made Matlab projects & their applications-
 4)range_cal.m : Many cars still dont give exact range estimation in available fuel, they only shows bars, so this code based mini project will give you range estimation of your vehicles in nos based on your input.
 5)solar_guide.m : To get values for i/p & o/p power, fill factor & cell efficiency of installed PV/solar cell modules from available data.
 
+Simulink simulation & application-
+6)pv_guide.slx : To get o/p power, fill factor & efficiency of installed PV/solar cell modules from available data.
+
 Thanks & regards,
 Viraj Latake
